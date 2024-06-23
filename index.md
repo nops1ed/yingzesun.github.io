@@ -4,6 +4,7 @@ layout: default
 
 # About
 Hi there! I'm Yingze Sun, a software engineering major from the _University of Science and Technology of China_. I'm really into **AI, OS, and architecture**.
+
 Right now, I'm working on some cool project related to `LLM and ai compiler`.
 
 # Contact 
