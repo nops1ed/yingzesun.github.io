@@ -10,7 +10,7 @@ Right now, I'm working on some cool project related to `LLM and AI compiler`.
 
 # Contact 
 - Email: 
-  - **yingzesu@intel.com**
+  - **yingze.sun@intel.com**
   - **yingzesun@mail.ustc.edu.cn**(~~backup~~)
 
 
