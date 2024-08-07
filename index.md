@@ -15,6 +15,7 @@ Once worked on optimizing middleware for operating systems in the autonomous dri
 
 
 # Blog
+- [RagFlow Source Code interpretation](https://github.com/nops1ed/Ragflow_SC_Interpretation)
 - [MLIR](https://github.com/nops1ed/MLIR-learning)
 - [ICS-Manual](https://github.com/nops1ed/NJU_PA_Manual)
 - [QNX middleware](***)
